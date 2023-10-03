@@ -2,8 +2,6 @@
 Ayu Putri</a></h1>
 <h3 align="center"> i student in indonesia &#127470;&#127475</h3>
 
-<p align="left"> <a href="https://instagram.com/ayuuputtriii?igshid=MzMyNGUyNmU2YQ==" target="blank"><img src="https://www.logolynx.com/images/logolynx/08/08009cd7323d9928952558607ba4f663.jpeg" alt="ayuuputtriii" /></a> </p>
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a
@@ -40,14 +38,11 @@ Ayu Putri</a></h1>
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+- [instagram] (https://instagram.com/ayuuputtriii?igshid=MzMyNGUyNmU2YQ==)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+Credit: [Saurabh Chav](https://github.com/100rabhcsmc)
 
 Last Edited on: 08/08/2022
-# AyuPutriSriWedari
